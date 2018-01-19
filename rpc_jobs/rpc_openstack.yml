@@ -196,7 +196,7 @@
     branch: "newton"
     jira_project_key: "RO"
     image:
-      - xenial:
+      - xenial_RE1191:
           IMAGE: "Ubuntu 16.04.2 LTS prepared for RPC deployment"
       - xenial_loose_artifacts:
           IMAGE: "Ubuntu 16.04 LTS (Xenial Xerus) (PVHVM)"
